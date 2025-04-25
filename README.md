@@ -4,21 +4,21 @@ Este proyecto es una calculadora interactiva desarrollada en un archivo Jupyter 
 
 🤖 Funcionalidades:
 
-    Cálculo de funciones de probabilidad y densidad:
+Cálculo de funciones de probabilidad y densidad:
 
-        Distribuciones discretas: Uniforme, Binomial, Binomial negativa, Poisson, Geométrica, Hipergeométrica.
+. Distribuciones discretas: Uniforme, Binomial, Binomial negativa, Poisson, Geométrica, Hipergeométrica.
 
-        Distribuciones continuas: Uniforme, Normal, Normal estándar, Exponencial, Erlang, Gamma, Weibull, T de student.
+. Distribuciones continuas: Uniforme, Normal, Normal estándar, Exponencial, Erlang, Gamma, Weibull, T de student.
 
-    Visualización de gráficas (PMF, PDF, CDF).
+. Visualización de gráficas (PMF, PDF, CDF).
 
-    Cálculo de:
+Cálculo de:
 
-        Probabilidades específicas.
+. Probabilidades específicas.
 
-        Esperanza matemática (media) y varianza.
+. Esperanza matemática (media) y varianza.
 
-        Intervalos de confianza (en distribuciones continuas).
+. Intervalos de confianza (en distribuciones continuas).
 
     Interfaz interactiva con ipywidgets para elegir parámetros fácilmente.
 ## 🚀 Uso del código
@@ -42,6 +42,10 @@ Descarga las independencias:
 ```
 
 Abre el archivo .ipynb en Google Colab o Jupyter Notebook.
+
+Ejecuta las celdas una por una.
+
+Interactúa con los widgets para elegir la distribución, ingresar los parámetros y visualizar los resultados.
 
 
 ## 👥 Autores
