@@ -20,19 +20,20 @@ Cálculo de:
 
 . Intervalos de confianza (en distribuciones continuas).
 
-    Interfaz interactiva con ipywidgets para elegir parámetros fácilmente.
+Interfaz interactiva con ipywidgets para elegir parámetros fácilmente.
+
 ## 🚀 Uso del código
 
 Clona el repositorio:
 
 ```bash
-  git clone https://github.com/smuke123/DismetWebPage.git
+  git clone https://github.com/smuke123/DistributionsCalculator-Statistics.git
 ```
 
 Accede a la carpeta del proyecto:
 
 ```bash
-  cd DismetWebPage
+  cd DistributionsCalculator-Statistics
 ```
 
 Descarga las independencias:
